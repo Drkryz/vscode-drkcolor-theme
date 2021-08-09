@@ -1,8 +1,8 @@
 {
-	"name": "drkryz drk",
+	"name": "vscode-drkcolor-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#202020",
+		"editor.background": "#1d1d1d",
 		"editor.foreground": "#fdf7f7",
 		"activityBarBadge.background": "#0099ff",
 		"sideBarTitle.foreground": "#1d1d1d"

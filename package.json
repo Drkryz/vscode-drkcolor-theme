@@ -4,6 +4,7 @@
     "description": "New drkryz team theme for vscode",
     "version": "1.0.0",
     "author": "DRK",
+    "publisher": "drkryz",
     "contributors": [
         {
             "name": "DRK",
