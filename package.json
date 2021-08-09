@@ -1,0 +1,38 @@
+{
+    "name": "drkcolor",
+    "displayName": "drkcolor",
+    "description": "New drkryz team theme for vscode",
+    "version": "1.0.0",
+    "author": "DRK",
+    "contributors": [
+        {
+            "name": "DRK",
+            "email": "drkryzteam@gmail.com",
+            "url": "https://github.com/drpidman"
+        },
+        {
+            "name": "Drkryz",
+            "email": "drkryzteam@gmail.com",
+            "url": "https://drkryz.xyz"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Drkryz/vscode-drkcolor-theme"
+    },
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Drkryz Theme Color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/drkryz drk-color-theme.json"
+            }
+        ]
+    }
+}
