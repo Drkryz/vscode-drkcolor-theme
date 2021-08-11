@@ -2,9 +2,10 @@
     "name": "drkcolor",
     "displayName": "drkcolor",
     "description": "New drkryz team theme for vscode",
-    "version": "1.2.5",
-    "author": "DRK",
+    "version": "1.2.7",
+    "author": "DRK - Caio Augusto",
     "publisher": "drkryz",
+    "icon": "assets/logo.png",
     "contributors": [
         {
             "name": "DRK",
