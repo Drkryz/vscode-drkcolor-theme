@@ -1,8 +1,8 @@
 {
-    "name": "drkcolor",
-    "displayName": "drkcolor",
+    "name": "drkryz-theme",
+    "displayName": "Drkryz Theme",
     "description": "New drkryz team theme for vscode",
-    "version": "1.3.2",
+    "version": "1.3.5",
     "author": "DRK - Caio Augusto",
     "publisher": "drkryz",
     "icon": "assets/logo.png",
@@ -20,7 +20,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Drkryz/vscode-drkcolor-theme"
+        "url": "https://github.com/Drkryz/vscode-drkcolor-theme"
     },
     "maintainers": [
         {
@@ -29,11 +29,11 @@
         }
     ],
     "scripts": {
-        "publish": "vsce publish",
+        "marketplace": "vsce publish",
         "github": "git add * && git commit -m \"auto update\" && git push"
     },
     "engines": {
-        "vscode": "^1.59.0"
+        "vscode": "^1.40.0"
     },
     "categories": [
         "Themes"
@@ -46,5 +46,10 @@
                 "path": "./themes/drkryz drk-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "Themes",
+        "vs-code Theme"
+    ],
+    "license": "MIT"
 }
