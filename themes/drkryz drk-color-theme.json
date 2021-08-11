@@ -29,7 +29,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "italic",
 				"foreground": "#eeff00"
 			}
 		},
