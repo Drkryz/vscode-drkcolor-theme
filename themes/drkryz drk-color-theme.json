@@ -2,10 +2,24 @@
 	"name": "vscode-drkcolor-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#272626",
-		"editor.foreground": "#fdf7f7",
+		"editor.background": "#1d1d1d",
+		"editor.foreground": "#957dff",
 		"activityBarBadge.background": "#0099ff",
-		"sideBarTitle.foreground": "#1d1d1d"
+		"sideBarTitle.foreground": "#1d1d1d",
+		"sideBar.foreground": "#ccc",
+		"sideBar.background": "#1d1d1d",
+		"activityBar.activeBorder": "#9f6bff",
+		"activityBar.background": "#1d1d1d",
+		"activityBar.activeBackground": "#9f6bfc",
+		"activityBar.foreground": "#fff",
+		"menu.background": "#222",
+		"menu.foreground": "#fff",
+		"menu.selectionBackground": "#444",
+		"menubar.selectionBackground": "#333",
+		"icon.foreground": "#9a9a9a",
+		"badge.background": "#ff7300",
+		"button.background": "#0099ff",
+		"button.foreground": "#fff",
 	},
 	"tokenColors": [
 		{
