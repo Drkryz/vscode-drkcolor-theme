@@ -13,6 +13,11 @@ saturated colors
 
 
 
+# Recommended
+- Bracket Pair Colorizer;
+- Fluent Icons;
+
+
  # In development
 
  - colors for markdown

@@ -2,7 +2,7 @@
     "name": "drkryz-theme",
     "displayName": "Drkryz Theme",
     "description": "New drkryz team theme for vscode",
-    "version": "1.3.5",
+    "version": "1.3.7",
     "author": "DRK - Caio Augusto",
     "publisher": "drkryz",
     "icon": "assets/logo.png",
@@ -11,26 +11,11 @@
             "name": "DRK",
             "email": "drkryzteam@gmail.com",
             "url": "https://github.com/drpidman"
-        },
-        {
-            "name": "Drkryz",
-            "email": "drkryzteam@gmail.com",
-            "url": "https://drkryz.xyz"
         }
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/Drkryz/vscode-drkcolor-theme"
-    },
-    "maintainers": [
-        {
-            "name": "Caio Augusto",
-            "email": "drkryzteam@gmail.com"
-        }
-    ],
-    "scripts": {
-        "marketplace": "vsce publish",
-        "github": "git add * && git commit -m \"auto update\" && git push"
     },
     "engines": {
         "vscode": "^1.40.0"
@@ -45,11 +30,34 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/drkryz drk-color-theme.json"
             }
+        ],
+        "productIconThemes": [
+            {
+                "id": "ic-drkryz-thm",
+                "label": "ic-drkryz-thm",
+                "path": "./producticons/drkryz-product-icon-theme.json"
+            }
         ]
     },
     "keywords": [
         "Themes",
         "vs-code Theme"
     ],
-    "license": "MIT"
+    "license": "MIT",
+	"devDependencies": {
+		"@types/vscode": "^1.40.0",
+		"@types/glob": "^7.1.3",
+		"@types/mocha": "^8.2.2",
+		"@types/node": "14.x",
+		"eslint": "^7.27.0",
+		"@typescript-eslint/eslint-plugin": "^4.26.0",
+		"@typescript-eslint/parser": "^4.26.0",
+		"glob": "^7.1.7",
+		"mocha": "^8.4.0",
+		"typescript": "^4.3.2",
+		"vscode-test": "^1.5.2",
+		"ts-loader": "^9.2.2",
+		"webpack": "^5.38.1",
+		"webpack-cli": "^4.7.0"
+	}
 }
