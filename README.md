@@ -8,7 +8,7 @@ Smooth, saturated colors for development, with a smooth background color close t
 
 
 saturated colors
-![Alt text](https://media.discordapp.net/attachments/754023612956278935/874856946950365244/unknown.png "a title")
+![Theme](https://media.discordapp.net/attachments/754023612956278935/875414405871968366/unknown.png "Color")
 
 
 
