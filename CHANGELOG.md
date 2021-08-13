@@ -1,8 +1,19 @@
 # Change Log
 
-* UPDATE EDITOR COLORS
-    - activityBarBadge.background
-    - sideBarTitle.foreground
+* 1.4.2
+	- Added Light Theme and update dark theme
+
+* 1.4.1 
+	- Remove unnecessary folders and files
+
+* 1.3.9
+	- integration with fluent icons
+
+
+* 1.3.8
+  - update editor color
+  - activityBarBadge.background
+  - sideBarTitle.foreground
 	- sideBar.foreground
 	- sideBar.background
 	- activityBar.activeBorder
@@ -19,8 +30,9 @@
 	- button.foreground
 
 
-* Added new colors in javascript constants;
-* Added new colors in css;
-* Added new colors in json levels;
-* Added new colors in functions;
-* Added json levels colors;
+* 1.3.7
+  - Added new colors in javascript constants;
+  - Added new colors in css;
+  - Added new colors in json levels; 
+  - Added new colors in functions;
+  - Added json levels colors;

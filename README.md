@@ -7,10 +7,11 @@ Smooth, saturated colors for development, with a smooth background color close t
 
 
 
-saturated colors
-![Theme](https://media.discordapp.net/attachments/754023612956278935/875414405871968366/unknown.png "Color")
+soft dark theme
+![soft dark](https://media.discordapp.net/attachments/754023612956278935/875414405871968366/unknown.png "soft dark")
 
-
+soft light theme
+![soft light](https://media.discordapp.net/attachments/754023612956278935/875582005507661824/unknown.png "soft light")
 
 
 # Recommended
