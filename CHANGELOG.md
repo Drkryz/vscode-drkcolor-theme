@@ -1,5 +1,16 @@
 # Change Log
 
+* 1.4.5
+  - Compatibility with other versions of vscode
+  - Updated dark theme colors
+  - Updated the colors of the light theme, placing strong and sharp colors
+
+* 1.4.4
+  - Fix markdown colors in light theme
+
+* 1.4.3
+  - Update light theme and bug fixes
+
 * 1.4.2
 	- Added Light Theme and update dark theme
 
