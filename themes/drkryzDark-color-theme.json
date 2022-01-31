@@ -6,7 +6,7 @@
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#0099ff",
 		"sideBarTitle.foreground": "#1d1d1d",
-		"sideBar.foreground": "#ccc",
+		"sideBar.foreground": "#cecece",
 		"sideBar.background": "#1d1d1d",
 		"activityBar.activeBorder": "#0099ff",
 		"activityBar.inactiveForeground": "#0099ff",
@@ -17,7 +17,7 @@
 		"statusBar.debuggingBackground": "#0099ff",
 		"statusBar.foreground": "#ccc",
 		"menu.background": "#222",
-		"menu.foreground": "#fff",
+		"menu.foreground": "#cece",
 		"menu.selectionBackground": "#444",
 		"menubar.selectionBackground": "#333",
 		"icon.foreground": "#9a9a9a",
@@ -140,7 +140,7 @@
 				"meta.function",
 			],
 			"settings": {
-				"foreground": "#faad49",
+				"foreground": "#f77700",
 			}
 		},
 		{
@@ -149,7 +149,7 @@
 				"meta.function string"
 			],
 			"settings": {
-				"foreground": "#acacac",
+				"foreground": "#ffa358",
 			}
 		},
 		{
@@ -184,13 +184,13 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#fd701e"
+				"foreground": "#858585",
 			}
 		},
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
-				"string",
+
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
@@ -199,7 +199,18 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#d3d3d3"
+				"foreground": "#8d8d8d",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markup Heading, String",
+			"scope": [
+				"markup.heading",
+				"string"
+			],
+			"settings": {
+				"foreground": "#b55cff",
 			}
 		},
 		{

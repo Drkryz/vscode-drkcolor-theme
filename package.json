@@ -2,7 +2,7 @@
     "name": "drkryz-theme",
     "displayName": "Drkryz Theme",
     "description": "New drkryz team theme for vscode",
-    "version": "1.4.5",
+    "version": "1.4.9",
     "author": "DRK - Caio Augusto",
     "publisher": "drkryz",
     "icon": "assets/logo.png",
@@ -13,7 +13,7 @@
     "contributors": [
         {
             "name": "DRK",
-            "email": "drkryzteam@gmail.com",
+            "email": "support@drkryz.xyz",
             "url": "https://github.com/drpidman"
         }
     ],
@@ -30,7 +30,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Drkryz Theme Color",
+                "label": "Drkryz Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/drkryzDark-color-theme.json"
             },
@@ -46,28 +46,13 @@
                 "label": "Fluent Icon Theme",
                 "path": "./themes/drkryz-product-icon-theme.json"
             }
-        ],
-        "commands": [
-            {
-                "command": "drkryz.hello",
-                "title": "Drkryz"
-            },
-            {
-                "command": "drkryz.unhello",
-                "title": "Drkryz Unhello"
-            }
         ]
     },
     "keywords": [
         "Themes",
         "vs-code Theme"
     ],
-    "main": "src/extension.js",
     "license": "MIT",
-    "activationEvents": [
-        "onCommand:drkryz.hello",
-        "onCommand:drkryz.unhello"
-    ],
     "scripts": {
         "update": "node ./build/update.js",
         "show": "open ./themes/drkryz.html",

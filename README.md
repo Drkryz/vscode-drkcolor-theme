@@ -1,29 +1,38 @@
-# Drkcolor
-
- Visual studio code theme with strong and saturated colors, adapted for any progamation language.
- Adapted for html and jsx elements with separate colors.
-
-Smooth, saturated colors for development, with a smooth background color close to the vscode pattern
+# Drkryz Project: **🎨 Theme** <span><br>
 
 
+#### A simple theme for vscode with a wide combination of colors and super pleasant to program night and day, adapted to any promation language.
 
-soft dark theme
-![soft dark](https://media.discordapp.net/attachments/754023612956278935/875414405871968366/unknown.png "soft dark")
+## 📜 Features
+ - Best color combination
+ - Soft colors
+ - Fits with any other extensions
 
-soft light theme
-![soft light](https://media.discordapp.net/attachments/754023612956278935/875582005507661824/unknown.png "soft light")
+## 📂 Statements
 
+📂 **files**
+![Files](https://media.discordapp.net/attachments/754023612956278935/933113688980869150/unknown.png)
 
-# Recommended
-- Bracket Pair Colorizer;
-- Fluent Icons;
+---
 
+📄 **css** 
 
- # In development
+![Css](https://media.discordapp.net/attachments/754023612956278935/933115071821926490/unknown.png)
 
- - colors for markdown
- - Possibility to switch between light and dark theme (module color pattern)
+---
 
- - Better compatibility with Bracket Pair Colorizer (I recommend using with our extension as it is more stylish :) )
+📄 **html**
 
-[Website](https://drkryz.xyz) | [Discord](https://discord.gg/invite/kmAuPQ6qNE) | [Dev GitHub](https://github.com/drpidman) | [Team GitHub](https://github.com/Drkryz)
+![Html](https://media.discordapp.net/attachments/754023612956278935/933115590334373990/unknown.png)
+
+---
+📄 **C++**
+
+![C++](https://media.discordapp.net/attachments/754023612956278935/933116500338966598/unknown.png)
+
+<br>
+
+---
+[Instagram](https://instagram.com/Scutfy) || [Website](https://drkryz.xyz) || [Another Project](https://app.drkryz.xyz)
+
+---

@@ -1,5 +1,12 @@
 # Change Log
 
+* 1.4.8
+  - New color combination for dark theme
+
+* 1.4.7
+  - Update colors
+  - Update logo
+
 * 1.4.5
   - Compatibility with other versions of vscode
   - Updated dark theme colors
