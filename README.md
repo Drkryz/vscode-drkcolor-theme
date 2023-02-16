@@ -33,6 +33,6 @@
 <br>
 
 ---
-[Instagram](https://instagram.com/Scutfy) || [Website](https://drkryz.xyz) || [Another Project](https://app.drkryz.xyz)
-
+[Instagram](https://instagram.com/scutfy) 
+[Instagram Project](https://instagram.com/drkryz)
 ---
