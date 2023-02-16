@@ -2,18 +2,19 @@
 	"name": "vscode-drkcolor-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1d1d1d",
+		"editor.background": "#131313",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#0099ff",
-		"sideBarTitle.foreground": "#1d1d1d",
+		"sideBarTitle.foreground": "#fff",
 		"sideBar.foreground": "#cecece",
-		"sideBar.background": "#1d1d1d",
+		"sideBarSectionHeader.foreground": "#fff",
+		"sideBar.background": "#111111",
 		"activityBar.activeBorder": "#0099ff",
 		"activityBar.inactiveForeground": "#0099ff",
-		"activityBar.background": "#1d1d1d",
+		"activityBar.background": "#111111",
 		"activityBar.activeBackground": "#6e6e6e",
 		"activityBar.foreground": "#fff",
-		"statusBar.background": "#1d1d1d",
+		"statusBar.background": "#111111",
 		"statusBar.debuggingBackground": "#0099ff",
 		"statusBar.foreground": "#ccc",
 		"menu.background": "#222",
@@ -27,6 +28,7 @@
 		"editor.lineHighlightBackground": "#5555",
 		"gitDecoration.modifiedResourceForeground": "#6bff4dc7",
 		"gitDecoration.untrackedResourceForeground": "#1daf",
+
 	},
 	"tokenColors": [
 		{

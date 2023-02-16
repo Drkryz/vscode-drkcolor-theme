@@ -1,5 +1,8 @@
 # Change Log
 
+* 1.23.16_20
+  - Adjust to dark color
+
 * 1.4.8
   - New color combination for dark theme
 
