@@ -33,8 +33,8 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#ff0000",
-        "fontStyle": "bold"
+        "foreground": "#4e275c",
+        "fontStyle": "bold italic",
       }
     },
     {
