@@ -10,25 +10,7 @@
 
 ## 📂 Statements
 
-📂 **files**
-![Files](https://media.discordapp.net/attachments/754023612956278935/933113688980869150/unknown.png)
 
----
-
-📄 **css** 
-
-![Css](https://media.discordapp.net/attachments/754023612956278935/933115071821926490/unknown.png)
-
----
-
-📄 **html**
-
-![Html](https://media.discordapp.net/attachments/754023612956278935/933115590334373990/unknown.png)
-
----
-📄 **C++**
-
-![C++](https://media.discordapp.net/attachments/754023612956278935/933116500338966598/unknown.png)
 
 <br>
 
