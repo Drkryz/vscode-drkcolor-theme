@@ -11,7 +11,7 @@
 ## 📂 Statements
 
 
-Drkryz Dark Theme
+## Drkryz Dark Theme
 
 ![Editor buttons colors](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkExtension.png?raw=true)
 
@@ -19,7 +19,12 @@ Drkryz Dark Theme
 
 ![Code](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkCodeAll.png?raw=true)
 
-![Project](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkProjectS.png?raw=true)
+
+## Drkryz Neon Theme
+
+![Editor Buttons colors](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkExtensionNeon.png?raw=true)
+
+![Editor](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkCodeAllNeon.png=raw=true)
 
 <br>
 
