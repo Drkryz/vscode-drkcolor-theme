@@ -2,7 +2,7 @@
 	"name": "drkryz-theme",
 	"displayName": "Drkryz Theme",
 	"description": "New drkryz team theme for vscode",
-	"version": "1.23.171925",
+	"version": "1.23.190134",
 	"author": "DRK - Caio Augusto",
 	"publisher": "drkryz",
 	"icon": "assets/logo.png",
@@ -38,6 +38,11 @@
 				"label": "Drkryz Light Theme",
 				"uiTheme": "vs",
 				"path": "./themes/drkryzLight-color-theme.json"
+			},
+			{
+				"label": "Drkryz Neon Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/drkryzNeon-color-theme.json"
 			}
 		],
 		"productIconThemes": [
