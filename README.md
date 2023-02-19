@@ -22,9 +22,9 @@
 
 ## Drkryz Neon Theme
 
-![Editor Buttons colors](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkExtensionNeon.png?raw=true)
+![Editor Buttons colors](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkExtensioNeon.png?raw=true)
 
-![Editor](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkCodeAllNeon.png=raw=true)
+![Editor](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkCodeAllNeon.png?raw=true)
 
 <br>
 
