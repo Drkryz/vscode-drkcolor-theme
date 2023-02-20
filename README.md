@@ -3,6 +3,10 @@
 
 #### A simple theme for vscode with a wide combination of colors and super pleasant to program night and day, adapted to any promation language.
 
+
+![Drkryz](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/Drkryz.png?raw=true)
+
+
 ## 📜 Features
  - Best color combination
  - Soft colors
