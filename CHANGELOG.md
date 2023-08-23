@@ -1,5 +1,9 @@
 # Change Log
 
+* 1.40.23090214
+  - New colors(with bugs)
+  - Adjust
+
 * 1.23.16_20
   - Adjust to dark color
 
