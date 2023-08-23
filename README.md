@@ -21,7 +21,7 @@
 
 ![Editor](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/newcolor_gui.png)
 
-![Code](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/newcolor_ex_fn.png)
+![Code](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/newcolor_ex_fn.png)
 
 
 ## Drkryz Neon Theme
