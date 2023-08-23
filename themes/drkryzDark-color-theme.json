@@ -13,11 +13,12 @@
 		"activityBar.foreground": "#fff",
 
 		"statusBar.background": "#070707",
-		"statusBar.debuggingBackground": "#0099ff",
+		"statusBar.debuggingBackground": "#111111",
 		"statusBar.foreground": "#ccc",
 		
 		"menu.background": "#070707",
-		"menu.foreground": "#cece",
+		"menu.foreground": "#F4D58D",
+		"menu.selectionForeground": "#ccc",
 		"menu.selectionBackground": "#070707",
 		"menubar.selectionBackground": "#070707",
 

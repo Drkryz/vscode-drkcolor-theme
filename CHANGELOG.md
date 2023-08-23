@@ -1,5 +1,9 @@
 # Change Log
 
+* 1.40.23091051
+  - Menu colors(without correct hover)
+  - Colors fix for #070707
+
 * 1.40.23090214
   - New colors(with bugs)
   - Adjust
