@@ -19,9 +19,9 @@
 
 ![Editor buttons colors](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/DkExtension.png?raw=true)
 
-![Editor](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/newcolor_ex_gui?raw=true)
+![Editor](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/newcolor_gui.png)
 
-![Code](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/newcolor_ex_fn?raw=true)
+![Code](https://github.com/Drkryz/vscode-drkcolor-theme/blob/main/assets/newcolor_ex_fn.png)
 
 
 ## Drkryz Neon Theme
