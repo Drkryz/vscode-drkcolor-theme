@@ -6,7 +6,7 @@ Looking for a simple theme to use in your environment?<br><br>
 
 ***I made this theme little by little, seeing which colors would be most pleasing to the eye, and the editor's background was the hardest to find, as I wanted one that would best fit any desktop***
 
-![Drkryz Code Force Update](assets/drkryzcodeforce.png)
+![Drkryz Code Force Update](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/drkryzcodeforce.png)
 
 # Themes
 
@@ -20,16 +20,16 @@ Looking for a simple theme to use in your environment?<br><br>
 <br><br><br><br>
 
 # Let's code?
-![Drkryz Code Force Lets Code](assets/go_to_code.png)
+![Drkryz Code Force Lets Code](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code.png)
 <br><br>
 
 # Do you like these colors?
-![Drkryz Code Force Lets Code Menu](assets/go_to_code_menu.png)
+![Drkryz Code Force Lets Code Menu](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code_menu.png)
 <br><br>
 
 # Do you like these buttons?
-![Drkryz Code Force Lets Code Buttons](assets/go_to_code_buttons.png)
+![Drkryz Code Force Lets Code Buttons](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code_buttons.png)
 <br><br>
 
 ## You can contribute the colors too!
-![Drkryz Code Force Lets Code Contrib](assets/go_to_code_contribute.png)
+![Drkryz Code Force Lets Code Contrib](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code_contribute.png)
