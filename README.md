@@ -1,4 +1,6 @@
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div style="display:flex; justify-content: center;">
+<img src="assets/banner.png" width="450" alt="Drkryz Project">
+</div>
 
 # Hi Darker!
 Looking for a simple theme to use in your environment?<br><br>
