@@ -9,27 +9,43 @@ Looking for a simple theme to use in your environment?<br><br>
 ![Drkryz Code Force Update](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/drkryzcodeforce.png)
 
 # Themes
-
 | Theme              | color  | status         |
 |--------------------|--------|----------------| 
 | Drkryz Dark Theme  | Dark   | updated/master |
 | Drkryz Neon Theme  | Dark   | old/recent     |
 | Drkryz Light Theme | Light  | old            |
 
-<span style="color: lightblue"> You can suggest new themes or also suggest new colors for the current ones.
-<br><br><br><br>
+- <span style="color: orange"> You can suggest new themes or also suggest new colors for the current ones.
+<br><br>
+
+# Highlights colors
+| Name               | color       |
+|--------------------|-------------|
+| Editor             | #070707     |
+| Texts              | #F4D58D     |
+| Buttons            | #ffa153     | 
+| Functions          | #10ec68     |
+
+**These are some colors used and highlighted**
+
 
 # Let's code?
 ![Drkryz Code Force Lets Code](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code.png)
+You can create a new pattern to decorate functions in your code, or differentiate keywords through colors. <br>
+This is not exclusive to our theme!
 <br><br>
 
 # Do you like these colors?
 ![Drkryz Code Force Lets Code Menu](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code_menu.png)
+This theme does not have colored borders, the background of all the menus fits together and what sets them apart is their default shadow. <br>
+I did this to try and fit the look of the editor in any desktop environment
 <br><br>
 
 # Do you like these buttons?
 ![Drkryz Code Force Lets Code Buttons](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code_buttons.png)
+The theme has a color palette, so I tried to fit all the colors into a single pattern, making a combination of several strong colors.
 <br><br>
 
 ## You can contribute the colors too!
 ![Drkryz Code Force Lets Code Contrib](https://raw.githubusercontent.com/Drkryz/vscode-drkcolor-theme/main/assets/go_to_code_contribute.png)
+The theme is not mine alone, and from me to the community that seeks comfort at work, and you can contribute to it!
