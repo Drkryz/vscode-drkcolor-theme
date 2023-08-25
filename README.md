@@ -8,7 +8,7 @@ Looking for a simple theme to use in your environment?<br><br>
 
 ***I made this theme little by little, seeing which colors would be most pleasing to the eye, and the editor's background was the hardest to find, as I wanted one that would best fit any desktop***
 
-![Drkryz Code Force Update](assets/drkryzcodeforce.png)
+![Drkryz Code Force Update](assets/codeforcebanner.png)
 
 # Themes
 | Theme                    | color  | status         |
@@ -17,10 +17,10 @@ Looking for a simple theme to use in your environment?<br><br>
 | Drkryz SmoothDark Theme  | Dark   | updated/recent |
 
 # Drkryz Dark Theme
-![Drkryz Code Force Dark](assets/drkryzdark.png)
+![Drkryz Code Force Dark](assets/codeforce_theme_dark.png)
 
 # Drkryz SmoothDark Theme
-![Drkryz Code Force SmoothDark](assets/drkryzsmoothdark.png)
+![Drkryz Code Force SmoothDark](assets/codeforce_theme_smooth_dark.png)
 
 - <span style="color: orange"> You can suggest new themes or also suggest new colors for the current ones.
 <br><br>
