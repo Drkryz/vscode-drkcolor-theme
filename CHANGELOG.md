@@ -1,4 +1,8 @@
 # Change Log
+* 1.40.25091322
+  - Removed old themes(light neon);
+  - Added new theme - SmoothDark theme based on Drkryz Dark;
+  - Update colors
 
 * 1.40.23091051
   - Menu colors(without correct hover)

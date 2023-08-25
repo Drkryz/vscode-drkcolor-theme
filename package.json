@@ -2,7 +2,7 @@
 	"name": "drkryz-theme",
 	"displayName": "Drkryz Theme",
 	"description": "New drkryz theme \"Codeforce\" style with selected colors, beautiful and elegant for a \"code force\"",
-	"version": "1.40.25091245",
+	"version": "1.40.25091322",
 	"author": "DRK - Caio Augusto",
 	"publisher": "drkryz",
 	"icon": "assets/logo.png",
@@ -12,8 +12,8 @@
 	},
 	"contributors": [
 		{
-			"name": "DRK",
-			"email": "support@drkryz.xyz",
+			"name": "drpidman",
+			"email": "drkryzproject@gmail.com",
 			"url": "https://github.com/drpidman"
 		}
 	],
@@ -35,27 +35,17 @@
 				"path": "./themes/drkryzDark-color-theme.json"
 			},
 			{
-				"label": "Drkryz Light Theme",
-				"uiTheme": "vs",
-				"path": "./themes/drkryzLight-color-theme.json"
-			},
-			{
-				"label": "Drkryz Neon Theme",
+				"label": "Drkryz SmoothDark Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/drkryzNeon-color-theme.json"
-			}
-		],
-		"productIconThemes": [
-			{
-				"id": "ic-drkryz-thm",
-				"label": "Fluent Icon Theme",
-				"path": "./themes/drkryz-product-icon-theme.json"
+				"path": "./themes/drkryzSmoothDark-color-theme.json"
 			}
 		]
 	},
 	"keywords": [
 		"Themes",
-		"vs-code Theme"
+		"Dark theme",
+		"SmoothDark theme",
+		"Drkryz Theme"
 	],
 	"license": "MIT",
 	"scripts": {

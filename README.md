@@ -11,11 +11,10 @@ Looking for a simple theme to use in your environment?<br><br>
 ![Drkryz Code Force Update](assets/drkryzcodeforce.png)
 
 # Themes
-| Theme              | color  | status         |
-|--------------------|--------|----------------| 
-| Drkryz Dark Theme  | Dark   | updated/master |
-| Drkryz Neon Theme  | Dark   | old/recent     |
-| Drkryz Light Theme | Light  | old            |
+| Theme                    | color  | status         |
+|--------------------------|--------|----------------| 
+| Drkryz Dark Theme        | Dark   | updated/master |
+| Drkryz SmoothDark Theme  | Dark   | updated/recent |
 
 - <span style="color: orange"> You can suggest new themes or also suggest new colors for the current ones.
 <br><br>
