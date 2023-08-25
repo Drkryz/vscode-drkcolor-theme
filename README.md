@@ -16,6 +16,12 @@ Looking for a simple theme to use in your environment?<br><br>
 | Drkryz Dark Theme        | Dark   | updated/master |
 | Drkryz SmoothDark Theme  | Dark   | updated/recent |
 
+# Drkryz Dark Theme
+![Drkryz Code Force Dark](assets/drkryzdark.png)
+
+# Drkryz SmoothDark Theme
+![Drkryz Code Force SmoothDark](assets/drkryzsmoothdark.png)
+
 - <span style="color: orange"> You can suggest new themes or also suggest new colors for the current ones.
 <br><br>
 
