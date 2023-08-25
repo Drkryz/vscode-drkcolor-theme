@@ -1,4 +1,8 @@
 # Change Log
+
+* 1.40.25092029
+  - New coffee theme based on SmoothDark theme
+
 * 1.40.25091322
   - Removed old themes(light neon);
   - Added new theme - SmoothDark theme based on Drkryz Dark;

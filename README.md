@@ -11,16 +11,17 @@ Looking for a simple theme to use in your environment?<br><br>
 ![Drkryz Code Force Update](assets/codeforcebanner.png)
 
 # Themes
-| Theme                    | color  | status         |
-|--------------------------|--------|----------------| 
-| Drkryz Dark Theme        | Dark   | updated/master |
-| Drkryz SmoothDark Theme  | Dark   | updated/recent |
+| Theme                     | color  | status          |
+|---------------------------|--------|-----------------| 
+| Drkryz Dark Theme         | Dark   | updated/master  |
+| Drkryz Smooth Dark Theme  | Dark   | updated/recent  |
+| Drkryz Dark Coffee Theme  | Dark   | updated/new     |
 
-# Drkryz Dark Theme
 ![Drkryz Code Force Dark](assets/codeforce_theme_dark.png)
 
-# Drkryz SmoothDark Theme
-![Drkryz Code Force SmoothDark](assets/codeforce_theme_smooth_dark.png)
+![Drkryz Code Force Smooth Dark](assets/codeforce_theme_smooth_dark.png)
+
+![Drkryz Code Force Coffee](assets/codeforce_theme_coffee.png)
 
 - <span style="color: orange"> You can suggest new themes or also suggest new colors for the current ones.
 <br><br>
