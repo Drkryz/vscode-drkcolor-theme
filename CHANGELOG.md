@@ -1,5 +1,9 @@
 # Change Log
 
+* 1.41.030241944
+  - New color for editor background
+  - Add color for variables
+
 * 1.40.25092029
   - New coffee theme based on SmoothDark theme
 

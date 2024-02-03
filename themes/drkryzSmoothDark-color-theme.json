@@ -2,7 +2,7 @@
 	"name": "vscode-drkcolor-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0e0e10",
+		"editor.background": "#100e12",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#0e0e10",
 		
@@ -413,7 +413,8 @@
 			"entity.name.tag"
 		  ],
 		  "settings": {
-			"foreground": "#F95AB5"
+			"foreground": "#cfa8ff",
+			"fontStyle": "bold"
 		  }
 		},
 		{
@@ -429,7 +430,7 @@
 		  "name": "punctuation terminator statement",
 		  "scope": ["punctuation.terminator.statement"],
 		  "settings": {
-			"foreground": "#F4F1D7"
+			"foreground": "#fff172"
 		  }
 		},
 		{
@@ -501,7 +502,7 @@
 			"punctuation.definition.keyword"
 		  ],
 		  "settings": {
-			"foreground": "#ff879b",
+			"foreground": "#ff96a7",
 			"fontStyle": "bold"
 		  }
 		},
@@ -862,7 +863,8 @@
 			"variable.other.constant.tsx"
 		  ],
 		  "settings": {
-			"foreground": "#fffefb"
+			"foreground": "#cab3ff",
+			"fontStyle": "bold"
 		  }
 		},
 		{
