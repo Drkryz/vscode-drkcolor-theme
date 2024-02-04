@@ -2,42 +2,15 @@
 <img src="assets/banner.png" width="450" alt="Drkryz Project">
 </div>
 
-# Hi Darker!
-
-Looking for a simple theme to use in your environment?<br><br>
-**_Maybe you will like this theme that was made taking a little bit of each existing theme, strengths and weaknesses, but it is still not a fully sufficient theme to please our eyes for a long time!_**
-
-**_I made this theme little by little, seeing which colors would be most pleasing to the eye, and the editor's background was the hardest to find, as I wanted one that would best fit any desktop_**
-
-![Drkryz Code Force Update](assets/codeforcebanner.png)
-
-# Themes
-
-| Theme                    | color | status         |
-| ------------------------ | ----- | -------------- |
-| Drkryz Dark Theme        | Dark  | updated/master |
-| Drkryz Smooth Dark Theme | Dark  | updated/recent |
-| Drkryz Dark Coffee Theme | Dark  | updated/new    |
+<div align="center">
+<img src="assets/codeforcenew.png">
+<div>
 
 ![Drkryz Code Force Dark](assets/codeforce_theme_dark.png)
 
 ![Drkryz Code Force Smooth Dark](assets/codeforce_theme_smooth_dark.png)
 
 ![Drkryz Code Force Coffee](assets/codeforce_theme_coffee.png)
-
-- <span style="color: orange"> You can suggest new themes or also suggest new colors for the current ones.
-  <br><br>
-
-# Highlights colors
-
-| Name      | color   |
-| --------- | ------- |
-| Editor    | #070707 |
-| Texts     | #F4D58D |
-| Buttons   | #ffa153 |
-| Functions | #10ec68 |
-
-**These are some colors used and highlighted**
 
 # Recommended to use together
 
