@@ -2,7 +2,7 @@
 	"name": "vscode-drkcolor-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#110c09",
+		"editor.background": "#13100f",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#0a0603",
 		
@@ -320,7 +320,7 @@
 			"variable.parameter.function.language.special"
 		  ],
 		  "settings": {
-			"foreground": "#BD93F9",
+			"foreground": "#d3b4ff",
 			"fontStyle": "italic"
 		  }
 		},
@@ -413,7 +413,8 @@
 			"entity.name.tag"
 		  ],
 		  "settings": {
-			"foreground": "#d7a180"
+			"foreground": "#d68d60",
+			"fontStyle": "bold"
 		  }
 		},
 		{
@@ -456,7 +457,8 @@
 			"keyword.operator.function.infix"
 		  ],
 		  "settings": {
-			"foreground": "#50FA7B"
+			"foreground": "#ffd97a",
+			"fontStyle": "bold"
 		  }
 		},
 		{
@@ -501,7 +503,7 @@
 			"punctuation.definition.keyword"
 		  ],
 		  "settings": {
-			"foreground": "#ff879b",
+			"foreground": "#ffc987",
 			"fontStyle": "bold"
 		  }
 		},
@@ -530,7 +532,7 @@
 			"entity.name.function"
 		  ],
 		  "settings": {
-			"foreground": "#6ee19c",
+			"foreground": "#E48F45",
 			"fontStyle": "bold"
 		  }
 		},
@@ -629,7 +631,7 @@
 			"string.template punctuation.accessor"
 		  ],
 		  "settings": {
-			"foreground": "#F8F8F2"
+			"foreground": "#ffa23e"
 		  }
 		},
 		{
@@ -648,7 +650,7 @@
 			"punctuation.definition.variable.makefile"
 		  ],
 		  "settings": {
-			"foreground": "#FF79C6"
+			"foreground": "#dd9a6d"
 		  }
 		},
 		{
@@ -863,7 +865,7 @@
 			"variable.other.constant.tsx"
 		  ],
 		  "settings": {
-			"foreground": "#fffefb"
+			"foreground": "#ffaa6d"
 		  }
 		},
 		{
