@@ -6,12 +6,6 @@
 <img src="assets/codeforcenew.png">
 <div>
 
-![Drkryz Code Force Dark](assets/codeforce_theme_dark.png)
-
-![Drkryz Code Force Smooth Dark](assets/codeforce_theme_smooth_dark.png)
-
-![Drkryz Code Force Coffee](assets/codeforce_theme_coffee.png)
-
 # Recommended to use together
 
 - Fluent Icons - (Editor Icons)
