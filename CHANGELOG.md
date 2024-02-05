@@ -1,4 +1,6 @@
 # Change Log
+* 1.41.20240502
+  - New colors for smooth theme
 
 * 1.41.030241944
   - New color for editor background

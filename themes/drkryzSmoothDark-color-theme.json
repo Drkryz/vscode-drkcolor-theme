@@ -2,7 +2,7 @@
 	"name": "vscode-drkcolor-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#100e12",
+		"editor.background": "#101011",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#0e0e10",
 		
@@ -531,7 +531,7 @@
 			"entity.name.function"
 		  ],
 		  "settings": {
-			"foreground": "#6ee19c",
+			"foreground": "#f7e5f3",
 			"fontStyle": "bold"
 		  }
 		},
@@ -648,7 +648,7 @@
 			"punctuation.definition.variable.makefile"
 		  ],
 		  "settings": {
-			"foreground": "#FF79C6"
+			"foreground": "#c884ff"
 		  }
 		},
 		{
@@ -721,7 +721,7 @@
 		  ],
 		  "settings": {
 			"fontStyle": "italic",
-			"foreground": "#8BE9FD"
+			"foreground": "#ecabdd"
 		  }
 		},
 		{
@@ -817,7 +817,7 @@
 			"string"
 		  ],
 		  "settings": {
-			"foreground": "#F1FA8C"
+			"foreground": "#bff794"
 		  }
 		},
 		{

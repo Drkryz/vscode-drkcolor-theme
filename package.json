@@ -2,7 +2,7 @@
 	"name": "drkryz-theme",
 	"displayName": "Drkryz Theme",
 	"description": "New drkryz theme \"Codeforce\" style with selected colors, beautiful and elegant for a \"code force\"",
-	"version": "1.41.2024040212",
+	"version": "1.41.20240502",
 	"author": "DRK - Caio Augusto",
 	"publisher": "drkryz",
 	"icon": "assets/logo.png",
@@ -30,19 +30,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Drkryz Dark Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/drkryzDark-color-theme.json"
-			},
-			{
 				"label": "Drkryz Smooth Dark Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/drkryzSmoothDark-color-theme.json"
-			},
-			{
-				"label": "Drkryz Dark Coffee Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/drkryzDarkcoffee-color-theme.json"
 			}
 		]
 	},
