@@ -4,20 +4,20 @@
 	"colors": {
 		"editor.background": "#101011",
 		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#0e0e10",
 		
-		"activityBar.activeBorder": "#ffac83",
-		"activityBar.inactiveForeground": "#F4D58D",
+		"activityBarBadge.background": "#0e0e10",
+		"activityBar.activeBorder": "#8387ff",
+		"activityBar.inactiveForeground": "#34343e",
 		"activityBar.background": "#0e0e10",
-		"activityBar.activeBackground": "#0b0b0b",
-		"activityBar.foreground": "#fff",
+		"activityBar.activeBackground": "#151517",
+		"activityBar.foreground": "#d0aeff",
 
 		"statusBar.background": "#0e0e10",
 		"statusBar.debuggingBackground": "#111111",
 		"statusBar.foreground": "#ccc",
 		
 		"menu.background": "#0e0e10",
-		"menu.foreground": "#F4D58D",
+		"menu.foreground": "#d0aeff",
 		"menu.selectionForeground": "#ccc",
 		"menu.selectionBackground": "#0e0e10",
 		"menubar.selectionBackground": "#0e0e10",
@@ -25,13 +25,15 @@
 		
 		"titleBar.activeBackground": "#0e0e10",
 		"titleBar.inactiveBackground": "#0e0e10",
+		"titleBar.border": "#222222",
 		"tab.activeBackground": "#0e0e10",
-		"tab.inactiveBackground": "#0e0e10",
-		"tab.border": "#0e0e10",
+		"tab.inactiveBackground": "#151517",
+		"tab.border": "#101011",
 		"editorGroupHeader.tabsBackground": "#0e0e10",
 
 		"sideBar.dropBackground": "#000",
-		"sideBarSectionHeader.background": "#0e0e10",
+		"sideBarSectionHeader.background": "#111113",
+		"sideBar.border": "#111113",
 		"sideBarTitle.foreground": "#fff",
 		"sideBar.foreground": "#cecece",
 		"sideBarSectionHeader.foreground": "#fff",
@@ -39,12 +41,11 @@
 		
 		"icon.foreground": "#9a9a9a",
 		"badge.background": "#ffa153",
-		"button.background": "#ffae85",
-		"button.foreground": "#131313",
+		"button.background": "#2c2a2e",
+		"button.foreground": "#cac2dc",
 		"editor.lineHighlightBackground": "#5555",
-		"gitDecoration.modifiedResourceForeground": "#6bff4dc7",
-		"gitDecoration.untrackedResourceForeground": "#1daf",
-
+		"gitDecoration.modifiedResourceForeground": "#9aff86c7",
+		"gitDecoration.untrackedResourceForeground": "#86ffe1",
 	},
 	"tokenColors": [
 		{

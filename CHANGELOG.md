@@ -1,4 +1,7 @@
 # Change Log
+* 1.41.2024050215
+  - Changed editor colors for more combination(Drkryz Smooth Dark)
+
 * 1.41.20240502
   - New colors for smooth theme
 
