@@ -2,7 +2,7 @@
 	"name": "vscode-drkcolor-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#101011",
+		"editor.background": "#17151c",
 		"editor.foreground": "#ffffff",
 		
 		"activityBarBadge.background": "#0e0e10",
