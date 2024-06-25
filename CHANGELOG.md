@@ -1,4 +1,7 @@
 # Change Log
+* 1.43.4 
+  - New colors for Drkryz Coffee
+
 * 1.41.2024050215
   - Changed editor colors for more combination(Drkryz Smooth Dark)
 
