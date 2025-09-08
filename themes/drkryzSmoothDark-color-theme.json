@@ -2,36 +2,36 @@
   "name": "vscode-drkcolor-theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#110f14",
+    "editor.background": "#111014",
     "editor.foreground": "#ffffff",
-    "activityBarBadge.background": "#110f14",
+    "activityBarBadge.background": "#111014",
     "activityBar.activeBorder": "#8387ff",
     "activityBar.inactiveForeground": "#34343e",
-    "activityBar.background": "#110f14",
+    "activityBar.background": "#111014",
     "activityBar.activeBackground": "#151517",
     "activityBar.foreground": "#d0aeff",
-    "statusBar.background": "#110f14",
+    "statusBar.background": "#111014",
     "statusBar.debuggingBackground": "#111111",
     "statusBar.foreground": "#ccc",
-    "menu.background": "#110f14",
+    "menu.background": "#1e1c23",
     "menu.foreground": "#d0aeff",
     "menu.selectionForeground": "#ccc",
-    "menu.selectionBackground": "#110f14",
-    "menubar.selectionBackground": "#110f14",
-    "titleBar.activeBackground": "#110f14",
-    "titleBar.inactiveBackground": "#110f14",
+    "menu.selectionBackground": "#111014",
+    "menubar.selectionBackground": "#111014",
+    "titleBar.activeBackground": "#111014",
+    "titleBar.inactiveBackground": "#111014",
     "titleBar.border": "#222222",
-    "tab.activeBackground": "#110f14",
+    "tab.activeBackground": "#111014",
     "tab.inactiveBackground": "#151517",
     "tab.border": "#101011",
-    "editorGroupHeader.tabsBackground": "#110f14",
+    "editorGroupHeader.tabsBackground": "#121115",
     "sideBar.dropBackground": "#000",
-    "sideBarSectionHeader.background": "#111113",
-    "sideBar.border": "#111113",
+    "sideBarSectionHeader.background": "#121115",
+    "sideBar.border": "#1a1a1f",
     "sideBarTitle.foreground": "#fff",
-    "sideBar.foreground": "#cecece",
+    "sideBar.foreground": "#e8daff",
     "sideBarSectionHeader.foreground": "#fff",
-    "sideBar.background": "#110f14",
+    "sideBar.background": "#121115",
     "icon.foreground": "#9a9a9a",
     "badge.background": "#ffa153",
     "button.background": "#2c2a2e",
@@ -315,7 +315,7 @@
         "variable.parameter.function.language.special"
       ],
       "settings": {
-        "foreground": "#BD93F9",
+        "foreground": "#bc7dff",
         "fontStyle": "italic"
       }
     },
@@ -499,7 +499,8 @@
         "punctuation.definition.keyword"
       ],
       "settings": {
-        "foreground": "#ff96a7",
+        "foreground": "#bb76ff",
+        "fontStyle": "bold"
       }
     },
     {
@@ -525,7 +526,8 @@
         "entity.name.function"
       ],
       "settings": {
-        "foreground": "#f0e5f7"
+        "foreground": "#ef97ff",
+        "fontStyle": "bold"
       }
     },
     {
@@ -564,7 +566,9 @@
         "support.function",
         "support.type.property-name"
       ],
-      "settings": {}
+      "settings": {
+        
+      }
     },
     {
       "name": "Separators (key/value, namespace, inheritance, pointer, hash, slice, etc)",
@@ -682,7 +686,7 @@
         "source.groovy storage.type.def"
       ],
       "settings": {
-        "foreground": "#ffb657",
+        "foreground": "#b890ff",
         "fontStyle": "bold"
       }
     },

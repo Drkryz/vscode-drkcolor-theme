@@ -2,10 +2,10 @@
 	"name": "drkryz-theme",
 	"displayName": "Drkryz Theme",
 	"description": "New drkryz theme \"Codeforce\" style with selected colors, beautiful and elegant for a \"code force\"",
-	"version": "1.43.6",
+	"version": "1.43.7",
 	"author": "DRK - Caio Augusto",
 	"publisher": "drkryz",
-	"icon": "assets/logo.png",
+	"icon": "assets/codelogo.png",
 	"galleryBanner": {
 		"color": "#070707",
 		"theme": "dark"
