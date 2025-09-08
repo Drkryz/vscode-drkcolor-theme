@@ -1,5 +1,7 @@
 # Change Log
 
+- 1.50.0 - read readme.md
+
 - 1.43.4
 
   - New colors for Drkryz Coffee
