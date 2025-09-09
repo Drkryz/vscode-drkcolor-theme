@@ -10,8 +10,11 @@ Drkryz theme is a Visual Studio Code theme built around a simple idea:
 This theme started as a personal project, inspired by my own taste for calm and minimal color palettes. But it didn’t stop there. Over time, I’ve refined it based on the feedback and preferences of other developers who share the same need: a coding environment that feels comfortable, distraction-free, and built for long sessions of productivity.
 
 ## ✨ Why this theme?
-
+  
 - Gentle, carefully chosen colors that are easy on the eyes  
+
+   ![Drkryz Theme Preview](assets/drkryz_new.png)
+
 - Clean contrasts that improve readability without overwhelming you  
 - A design that supports focus, instead of stealing it  
 
