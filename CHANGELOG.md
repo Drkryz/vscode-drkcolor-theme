@@ -1,5 +1,8 @@
 # Change Log
 
+- 1.50.2 
+  - Added support to legacy drkryz themes
+
 - 1.50.0 - read readme.md
 
 - 1.43.4

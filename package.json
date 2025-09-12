@@ -2,7 +2,7 @@
   "name": "drkryz-theme",
   "displayName": "Drkryz Theme",
   "description": "The new drkyz theme is based on the default vscode, minimalist style and everything you need to stay focused.",
-  "version": "1.50.1",
+  "version": "1.50.2",
   "author": "DRK - Caio Augusto",
   "publisher": "drkryz",
   "icon": "assets/codelogo.png",
@@ -33,6 +33,21 @@
         "label": "Drkryz Minimal Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/drkryzSmoothDark-color-theme.json"
+      },
+      {
+        "label": "Drkryz Legacy Dark Coffee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/drkryzLegacyDarkCoffee-color-theme.json"
+      },
+      {
+        "label": "Drkryz Legacy Smooth Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/drkyzLegacyDarkSmooth-color-theme.json"
+      },
+      {
+        "label": "Drkryz Legacy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/drkryzLegacyDark-color-theme.json"
       }
     ]
   },
