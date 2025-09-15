@@ -22,8 +22,8 @@ This theme started as a personal project, inspired by my own taste for calm and 
 
 1. Open **Visual Studio Code**  
 2. Go to the **Extensions** panel (`Ctrl+Shift+X` / `Cmd+Shift+X`)  
-3. Search for **Minimal smooth theme**  
-4. Install and activate the theme  
+3. Search for **Drkryz Theme**  
+4. Install and activate the theme **Minimal smooth theme**  
 
 That’s it — your editor should now feel lighter, calmer, and ready for deep focus.
 
